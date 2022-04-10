@@ -1,4 +1,4 @@
-# Real time chat app
+# Real Time Chat App
 
 # Node + Socket.IO + React Chat App (Backend)
 ## Kullanılan Teknolojiler
@@ -6,3 +6,6 @@
 - Express.js
 - Socket.io
 - Redis
+
+
+# React Chat App (Client)
